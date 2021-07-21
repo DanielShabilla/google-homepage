@@ -1,0 +1,1 @@
+Designing a half-decent google homepage for first project without being perfectionistic to test HTML and CSS knowledge.
